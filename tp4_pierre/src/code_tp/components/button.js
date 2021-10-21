@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import '../index.css';
 
 export default class Button extends React.Component {

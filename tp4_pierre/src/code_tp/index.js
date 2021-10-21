@@ -15,7 +15,7 @@ export default class App extends React.Component {
                     nom: 'Shrek',
                     prenom: 'Du marais',
                     naissance: '04/07/2001',
-                    img: Shrek,
+                    picture: Shrek,
                     publi: 'La dernière publication',
                     like: 0
                 },
@@ -23,7 +23,7 @@ export default class App extends React.Component {
                     nom: 'Botté',
                     prenom: 'Chat',
                     naissance: '06/07/2001',
-                    img: Chat_botte,
+                    picture: Chat_botte,
                     publi: 'La dernière publication',
                     like: 0
                 },
@@ -31,7 +31,7 @@ export default class App extends React.Component {
                     nom: 'Biscuit',
                     prenom: 'Ptit',
                     naissance: '09/07/2001',
-                    img: Ptit_biscuit,
+                    picture: Ptit_biscuit,
                     publi: 'La dernière publication',
                     like: 0
                 },
